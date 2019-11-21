@@ -1,0 +1,17 @@
+Creating   'proj32.eep'
+Creating   'proj32.hex'
+Creating   'proj32.obj'
+Creating   'proj32.lis'
+Creating   'proj32.map'
+
+Assembling 'proj32.asm'
+Including  'C:\VMLAB\include\m32def.inc'
+
+Program memory usage:
+Code             :   99 words
+Constants (dw/db):    0 words
+Unused           :  494 words
+Total            :  593 words
+
+Assembly complete with no errors.
+Deleting   'proj32.eep'
